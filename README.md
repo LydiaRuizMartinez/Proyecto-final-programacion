@@ -1,4 +1,4 @@
-# Proyecto Final - Python Snake
+# Proyecto Final de Programación- Python Snake
 ### Descripción
 El proyecto consiste en el desarrollo de una versión en Python del conocido juego de la serpiente. La serpiente debe comer para ampliar su longitud y no puede comerse a sí misma ni chocar con los bordes. En estos últimos casos, se pierde el juego de la serpiente y para poder seguir jugando con los puntos acumulados hay que acertar un segundo juego. Dados seis números, deben combinarse de forma que usando sumas, restas y productos se obtenga una cifra dada.
 
